@@ -1,0 +1,12 @@
+{
+  "name": "fatcat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Stevan Goode",
+    "email": "steve@sociablesteve.dev",
+    "url": "https://www.sociablesteve.dev"
+  },
+  "repository": "git@github.com:SociableSteve/fatcat.git",
+  "license": "MIT"
+}
